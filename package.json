@@ -36,7 +36,7 @@
   "bugs": {
     "url": "https://github.com/daledali/spoti-vote/issues"
   },
-  "homepage": https://sp.djtl.tech/",
+  "homepage": "https://sp.djtl.tech/",
   "jest": {
     "projects": [
       {
